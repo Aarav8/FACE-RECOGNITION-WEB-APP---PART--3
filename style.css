@@ -1,0 +1,30 @@
+body
+{
+    background: linear-gradient(#92c200 0%, #0afa2a 100%);
+    color: red;
+    font-weight: bold;
+}
+#heading 
+{
+    width: 80%;
+    font-size: 22px;
+}
+#camera 
+{
+    width:350px;
+    height:350px;
+    border: rgb(169, 0, 0) dashed 2px;
+
+}
+.names_of_Objects,#resultObjectName,#accuracyPersentage 
+{
+    color: darkblue;
+}
+hr 
+{
+    color: black;
+}
+.names_of_Objects 
+{
+   
+}
